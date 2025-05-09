@@ -22,10 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-<<<<<<< HEAD
-=======
-
-# Welcome to My Blog!
-
-This is a blog powered by [VitePress](https://vitepress.dev/).
->>>>>>> d2885930d9a02664fe6ae9632612b7af9979c46b
